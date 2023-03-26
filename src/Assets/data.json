@@ -1,0 +1,23 @@
+{
+    "Card":[
+        {
+        "title":"Jalapeno",
+        "description": "₹30",
+        "buttonText": "Add"
+        }
+    ],
+    "Card2":[
+        {
+        "title":"Olives",
+        "description": "₹20",
+        "buttonText": "Add"
+        }
+    ],
+    "Card3":[
+        {
+        "title":"Onion",
+        "description": "₹10",
+        "buttonText": "Add"
+        }
+    ]
+}
