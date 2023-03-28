@@ -30,6 +30,9 @@ const HeroSection = (props) => {
           <Card data={landingPageData.Card} />
           <Card data={landingPageData.Card} />
         </div>
+        <div className="text-2xl text-white font-bold mb-10 mt-8 bg-red hover:bg-red">
+          <button>SAVE</button>
+        </div>
       </div>
     </div>
   );
